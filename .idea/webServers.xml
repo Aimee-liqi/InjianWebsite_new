@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8cf0aead-d69b-4f83-ad78-9c712a375859" name="sever" url="http://localhost:63342/InJianWebsite/">
+        <fileTransfer port="0" mountedRoot="C:\Program Files\Apache Software Foundation\Apache Tomcat 8.0.27\webapps" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
